@@ -1,0 +1,16 @@
+# PyTorch-Wrap Requirements
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+
+# Data processing
+pandas>=2.0.0
+Pillow>=9.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Utils
+tqdm>=4.65.0
